@@ -16,6 +16,7 @@ run flutter:
 
 
 screen shots:
+![image](https://github.com/danial-riazati/recommender/assets/58943927/7fa0658d-fe0f-47b5-a9fc-f4bd0f73c5ad)
 
 ![image](https://github.com/danial-riazati/recommender/assets/58943927/cb657c7a-ccd1-41ae-b42a-452ef7c153ee)
 
