@@ -16,14 +16,9 @@ run flutter:
 
 
 screen shots:
-![image](https://github.com/danial-riazati/recommender/assets/58943927/7fa0658d-fe0f-47b5-a9fc-f4bd0f73c5ad)
+![image](https://github.com/danial-riazati/recommender/assets/58943927/5b338b57-bfa4-4247-b6c1-6dd33b4c48b9)
+![image](https://github.com/danial-riazati/recommender/assets/58943927/a0bf7e31-8c12-4a5a-a830-81e43c0b3da4)
 
-![image](https://github.com/danial-riazati/recommender/assets/58943927/cb657c7a-ccd1-41ae-b42a-452ef7c153ee)
-
-
-![image](https://github.com/danial-riazati/recommender/assets/58943927/d44e1cfb-d88f-4e44-aad9-a4703dcdd0da)
-
-![image](https://github.com/danial-riazati/recommender/assets/58943927/4fb73ee2-fecb-424c-a3e8-f0c2550d8728)
-
-![image](https://github.com/danial-riazati/recommender/assets/58943927/097f74b9-ed2d-446e-85ac-f3bb06d570a5)
-![image](https://github.com/danial-riazati/recommender/assets/58943927/18c1d69e-24c8-4d72-b407-b90daba5ea50)
+![image](https://github.com/danial-riazati/recommender/assets/58943927/5a480579-9e14-40f9-8271-83661b35b9ac)
+![image](https://github.com/danial-riazati/recommender/assets/58943927/f639f6d6-1688-40c4-b8e0-ed819bebe3d8)
+![image](https://github.com/danial-riazati/recommender/assets/58943927/fc265ed1-f023-4d66-a091-250a8ec6ea51)
